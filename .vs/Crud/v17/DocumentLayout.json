@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\progra2024\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\UpdateWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\Ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\InsertWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E0C406-3696-4047-A840-14FCF21BB606}|Crud.csproj|c:\\users\\danie\\onedrive\\escritorio\\progra2024\\crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4E0C406-3696-4047-A840-14FCF21BB606}|Crud.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E0C406-3696-4047-A840-14FCF21BB606}|Crud.csproj|c:\\users\\danie\\onedrive\\escritorio\\progra2024\\crud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E0C406-3696-4047-A840-14FCF21BB606}|Crud.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\Ventas.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\Ventas.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\Ventas.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\Ventas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:05:11.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\UpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\UpdateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\UpdateWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\UpdateWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:05:09.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\Producto.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\Producto.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:05:06.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:05:02.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\InsertWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\InsertWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\InsertWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\InsertWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:04:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\DataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\DataAccess.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\DataAccess.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:04:49.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:02:01.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\CRUD\\CRUD\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\CRUD\\CRUD\\App.xaml.cs",
+              "RelativeToolTip": "..\\..\\CRUD\\CRUD\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:01:56.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\progra2024\\Crud\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\progra2024\\Crud\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T00:01:43.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\progra2024\\Crud\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\progra2024\\Crud\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:01:35.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
